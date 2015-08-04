@@ -7,7 +7,6 @@ package pwds
 
 import (
 	"errors"
-	"log"
 
 	"golang.org/x/crypto/bcrypt"
 )
