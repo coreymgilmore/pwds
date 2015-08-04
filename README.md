@@ -1,4 +1,4 @@
-# pwds
+# pwds.go
 Simple Golang Library for Creating and Verifying Bcrypt Passwords
 
 The intended use of this library is to make using golang.org/x/crypto/bcrypt easier.  This library just cleans up usage of the bcrypt library.
